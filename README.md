@@ -26,8 +26,8 @@ Here are the product basic parameters:
 | Touch Screen Type       | Capacitive touch                                             |
 | Touch Sampling Chip     | FT5206                                                       |
 | Touch Point Count       | Up to 5 simultaneous touch points                            |
-| Operating Temperature   | -20▲C ~ 70▲C                                                 |
-| Storage Temperature     | -20▲C ~ 70▲C                                                 |
+| Operating Temperature   | -20째C ~ 70째C                                                 |
+| Storage Temperature     | -20째C ~ 70째C                                                 |
 | Mudule Size             | 100mm*180mm                                                  |
 
 The electrical parameters are shown in the following table:
